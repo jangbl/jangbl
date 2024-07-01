@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Jan 👋
 
-<!--
-**jangbl/jangbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/website?label=jangoebel.com&style=for-the-badge&url=https%3A%2F%2Fjangoebel.com)](https://jangoebel.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_jgoebel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fproductioncoder&screen_name=_jgoebel)
 
-Here are some ideas to get you started:
+I am a Solutions Architect who builds cool stuff with **Javascript** and **Java**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[website]: https://jangoebel.com
+[twitter]: https://twitter.com/_jgoebel
+[youtube]: https://www.youtube.com/@jgoebel
+[linkedin]: https://www.linkedin.com/in/jan-goebel-15113b90
+[stackoverflow]: https://stackoverflow.com/users/2328833/productioncoder
+
+## Notable tutorials and projects
+- 🔴 [a Youtube clone in React](https://github.com/productioncoder/youtube-react)
+- 🍽 [a Yelp clone in React](https://github.com/productioncoder/yelp-frontend)
+- 🍪 [a cookie and session-based authentication system](https://github.com/productioncoder/express-session-with-redis)
+- 🧪 [testing a Node project with Docker and docker-compose](https://github.com/productioncoder/test-node-with-docker)
+- 🚀 [dependency injection in Node with awilix](https://github.com/productioncoder/node-dependency-injection)
+
+## Connect with me
+[<img align="left" alt="my website: jangoebel.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="my YouTube channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="my Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="my LinkedIn profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
